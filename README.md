@@ -20,8 +20,8 @@ This app is not intended for children under 13 years of age.
 We may update this policy in the future. When we do, we will update the “Last updated” date.
 
 ### Contact Us  
-If you have any questions about this privacy policy, please contact us at: [your email address]
+If you have any questions about this privacy policy, please contact us at: marco.medina.s@outlook.com
 
 ---
 
-Thank you for trusting [Your App Name]!
+Thank you for trusting Ax AAC!
