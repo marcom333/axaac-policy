@@ -2,7 +2,7 @@
 
 **Last updated:** July 2025
 
-Thank you for using [Your App Name].
+Thank you for using Ax AAC.
 
 ### Information We Collect  
 Currently, this app does **not** collect, store, or share any personal information or data.
